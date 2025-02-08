@@ -5,10 +5,13 @@
 <a href="mailto:dominik.kow.k@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-dominik.kow.k-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 <img alt="only.dominik" src="https://img.shields.io/badge/-@only.dominik-5865F2?style=flat-square&logo=Discord&logoColor=white">
 <a href="https://github.com/onlydominik" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@onlydominik-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-<p align="center" style="color: #A2F7A3; font-family: Fira Code, sans-serif; font-size: 20px;">
-  stack
-</p>
-<p align="center">
+
+
+
+
+<img src="./stack.svg" style="height: 1rem; margin-top: 10rem" alt="stack"/>
+
+<p style="display: flex">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" />
@@ -27,6 +30,15 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
 </p>
+
+
+
+
+<img src="./currentlyWorkingOn.svg" style="height: 1rem" alt="currently working on"/>
+
+<a href="mindmeld.pl" target="_blank"><img src="https://img.shields.io/badge/MINDMELD.PL-F26419.svg?style=flat-square" /></a>
+<img src="https://img.shields.io/badge/FocusFlip-780000.svg?style=flat-square" />
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onlydominik&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
