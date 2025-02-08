@@ -36,7 +36,7 @@
 
 <img src="./currentlyWorkingOn.svg" style="height: 1rem" alt="currently working on"/>
 
-<a href="mindmeld.pl" target="_blank"><img src="https://img.shields.io/badge/MINDMELD.PL-F26419.svg?style=flat-square" /></a>
+<a href="https://mindmeld.pl/" target="_blank"><img src="https://img.shields.io/badge/MINDMELD.PL-F26419.svg?style=flat-square" /></a>
 <img src="https://img.shields.io/badge/FocusFlip-780000.svg?style=flat-square" />
 
 
