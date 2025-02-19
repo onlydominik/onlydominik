@@ -35,10 +35,10 @@
 
 
 <img src="./currentlyWorkingOn.svg" style="height: 1rem" alt="currently working on"/>
-
+<div style="display: flex">
 <img src="https://img.shields.io/badge/PHOTOSNAP-780000.svg?style=flat-square" />
 <a href="https://mindmeld.pl/" target="_blank"><img src="https://img.shields.io/badge/MINDMELD.PL-F26419.svg?style=flat-square" /></a>
-
+</div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onlydominik&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
