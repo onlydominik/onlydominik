@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2d6a4f&reversal=false" alt="header"/> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A2F7A3&width=435&lines=Hi%2C+I'm+Dominik.;Frontend+is+my+thing." alt="Typing SVG" /></a>
 
-<a href="https://www.linkedin.com/in/kowalczyk-dominik" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <a href="mailto:dominik.kow.k@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-dominik.kow.k-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 <img alt="only.dominik" src="https://img.shields.io/badge/-@only.dominik-5865F2?style=flat-square&logo=Discord&logoColor=white">
 <a href="https://github.com/onlydominik" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@onlydominik-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
